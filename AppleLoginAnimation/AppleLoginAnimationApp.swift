@@ -2,7 +2,7 @@
 //  AppleLoginAnimationApp.swift
 //  AppleLoginAnimation
 //
-//  Created by George on 10/10/2025.
+//  Created by George on 14/10/2025.
 //
 
 import SwiftUI
